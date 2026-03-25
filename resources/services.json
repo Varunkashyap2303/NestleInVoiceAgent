@@ -1,0 +1,113 @@
+{
+  "_comment": "Local resource database. Add services here. Searchable by category, suburb, postcode.",
+  "services": [
+    {
+      "name": "Launch Housing - Emergency Accommodation",
+      "categories": ["shelter", "general"],
+      "address": "111 Sturt St, Southbank VIC 3006",
+      "suburb": "Southbank",
+      "postcode": "3006",
+      "phone": "1800 825 955",
+      "hours": "24/7 crisis line",
+      "accepts_walkins": true,
+      "24_hour": true,
+      "notes": "Victoria's largest homelessness service"
+    },
+    {
+      "name": "St Kilda Crisis Centre",
+      "categories": ["shelter", "mental_health", "substance_support"],
+      "address": "7 Acland St, St Kilda VIC 3182",
+      "suburb": "St Kilda",
+      "postcode": "3182",
+      "phone": "(03) 9537 0203",
+      "hours": "Mon-Fri 9am-5pm",
+      "accepts_walkins": true,
+      "24_hour": false,
+      "notes": "Drop-in support, crisis accommodation referrals"
+    },
+    {
+      "name": "Fitzroy Community Food Co-op",
+      "categories": ["food"],
+      "address": "136-140 Rokeby St, Collingwood VIC 3066",
+      "suburb": "Collingwood",
+      "postcode": "3066",
+      "phone": "(03) 9415 6900",
+      "hours": "Mon-Fri 10am-4pm",
+      "accepts_walkins": true,
+      "24_hour": false,
+      "notes": "Free or low-cost food parcels, no referral needed"
+    },
+    {
+      "name": "headspace Melbourne",
+      "categories": ["mental_health", "health"],
+      "address": "Level 2, 370 St Kilda Rd, Melbourne VIC 3004",
+      "suburb": "Melbourne",
+      "postcode": "3004",
+      "phone": "(03) 9027 0100",
+      "hours": "Mon-Fri 9am-6pm",
+      "accepts_walkins": false,
+      "24_hour": false,
+      "notes": "Mental health support for 12-25 year olds"
+    },
+    {
+      "name": "Inner Melbourne Community Legal",
+      "categories": ["legal"],
+      "address": "270 King St, Melbourne VIC 3000",
+      "suburb": "Melbourne",
+      "postcode": "3000",
+      "phone": "(03) 9328 1885",
+      "hours": "Mon-Fri 9am-5pm",
+      "accepts_walkins": false,
+      "24_hour": false,
+      "notes": "Free legal advice for housing, tenancy, and social security issues"
+    },
+    {
+      "name": "Salvation Army - Emergency Relief",
+      "categories": ["financial", "food", "general"],
+      "address": "69 Bourke St, Melbourne VIC 3000",
+      "suburb": "Melbourne",
+      "postcode": "3000",
+      "phone": "1300 371 288",
+      "hours": "Mon-Fri 9am-5pm",
+      "accepts_walkins": true,
+      "24_hour": false,
+      "notes": "Emergency financial assistance, food vouchers, referrals"
+    },
+    {
+      "name": "Safe Steps Family Violence Response Centre",
+      "categories": ["domestic_violence"],
+      "address": "Location not disclosed (phone service)",
+      "suburb": "Victoria-wide",
+      "postcode": "",
+      "phone": "1800 015 188",
+      "hours": "24/7",
+      "accepts_walkins": false,
+      "24_hour": true,
+      "notes": "Victoria's 24/7 response centre for family violence"
+    },
+    {
+      "name": "Windana Drug and Alcohol Recovery",
+      "categories": ["substance_support"],
+      "address": "19 St Kilda Rd, St Kilda VIC 3182",
+      "suburb": "St Kilda",
+      "postcode": "3182",
+      "phone": "(03) 9525 7800",
+      "hours": "Mon-Fri 9am-5pm",
+      "accepts_walkins": false,
+      "24_hour": false,
+      "notes": "Residential rehabilitation and counselling"
+    },
+    {
+      "name": "Royal Melbourne Hospital - Emergency",
+      "categories": ["health"],
+      "address": "300 Grattan St, Parkville VIC 3050",
+      "suburb": "Parkville",
+      "postcode": "3050",
+      "phone": "(03) 9342 7000",
+      "hours": "24/7",
+      "accepts_walkins": true,
+      "24_hour": true,
+      "notes": "Public hospital emergency department"
+    }
+  ]
+}
